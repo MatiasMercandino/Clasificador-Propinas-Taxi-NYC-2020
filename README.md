@@ -10,7 +10,7 @@ La idea es encontrar aquellos viajes donde la propina dejada por el pasajero fue
 Para ello ajustaremos un modelo de clasificación binaria RandomForest usando los datos de los viajes de enero de 2020. Probaremos el modelo resultante sobre los datos de los viajes de febrero de 2020. Compararemos el desempeño del modelo en ambos casos usando la métrica de f1-score.
 
 ## Diccionario de datos
-- (https://www1.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_trip_records_yellow.pdf)
+- https://www1.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_trip_records_yellow.pdf
 
 ## Requisitos
 - [Google Colab](https://colab.research.google.com/)
