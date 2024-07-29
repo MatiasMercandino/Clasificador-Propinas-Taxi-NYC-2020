@@ -12,18 +12,18 @@ Para ello ajustaremos un modelo de clasificación binaria RandomForest usando lo
 ## Estructura y Uso
 proyecto/
 ├── data/
-│ └── .gitkeep
+│ └── .dataset
 ├── documentos/
 │ └── diccionario_de_datos.pdf
 ├── model/
 │ └── random_forest_enero.joblib
 ├── notebook/
-│ └── .gitkeep
+│ └── .notebook_final
 ├── src/
 │ ├── init.py
-│ ├── dataset.py
+│ ├── load_data.py
 │ ├── features.py
-│ ├── visualization.py
+│ ├── visualización.py
 │ └── README.md
 └── requirements.txt
 
