@@ -28,11 +28,6 @@ proyecto/
 └── requirements.txt
 
 
-
-## Instalación
-
-1. Clonar el repositorio:
-
 ## Instalación
 
 1. Clonar el repositorio:
