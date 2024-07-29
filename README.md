@@ -37,7 +37,7 @@ proyecto/
 
 2. Crear un entorno virtual e instalar las dependencias:
 
-python -m venv env
+```python -m venv env
 
 source env/bin/activate  # En Windows usa `env\Scripts\activate`
 
