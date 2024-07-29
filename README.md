@@ -11,8 +11,6 @@ Para ello ajustaremos un modelo de clasificación binaria RandomForest usando lo
 
 ## Estructura
 proyecto/
-├── data/
-│ └── .dataset
 ├── documentos/
 │ └── diccionario_de_datos.pdf
 ├── model/
@@ -28,28 +26,16 @@ proyecto/
 └── requirements.txt
 
 
-## Instalación
+## Uso
 
-1. Clonar el repositorio:
-```bash
-  git clone <URL-del-repositorio>
-  cd proyecto
-```
+1. Descarga el repositorio
 
-2. Crear un entorno virtual e instalar las dependencias:
+2. Importa las carpetas y librerias
 
-```
-python -m venv env
-source env/bin/activate  # En Windows usa `env\Scripts\activate`
-pip install -r requirements.txt
-```
-
-3. Asegúrate de tener los datos necesarios en la carpeta data.
-
-4. Estructura de los Archivos en src
+3. Carga los datos y utiliza las funciones que vienen dentro de las librerias importadas
 - load_data.py: Función para cargar los datos.
 - features.py: Funciones para el preprocesamiento y comparación de distribuciones.
-- visualización.py: Funciones para la visualización de la importancia de las características.
 
+4- Ejecuta el notebook
 
 
