@@ -1,4 +1,4 @@
-Test de Kolmogorov-Smirnov (KS)
+# Test de Kolmogorov-Smirnov (KS)
 El test de Kolmogorov-Smirnov (KS) se utiliza para proporcionar una visión más profunda de por qué el rendimiento del modelo varía entre los meses. Aunque las métricas de rendimiento (accuracy, precision, recall, F1-score) te dicen cómo está funcionando el modelo, no te explican por qué está funcionando de esa manera. Aquí es donde el test de KS resulta útil.
 
 Propósito del Test de Kolmogorov-Smirnov
