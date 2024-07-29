@@ -32,11 +32,15 @@ proyecto/
 ## Instalación
 
 1. Clonar el repositorio:
+
+## Instalación
+
+1. Clonar el repositorio:
    ```bash
    git clone <URL-del-repositorio>
    cd proyecto
-   
-2.Crear un entorno virtual e instalar las dependencias:
+
+2. Crear un entorno virtual e instalar las dependencias:
 
 python -m venv env
 source env/bin/activate  # En Windows usa `env\Scripts\activate`
@@ -48,8 +52,6 @@ pip install -r requirements.txt
 - dataset.py: Función para cargar los datos.
 - features.py: Funciones para el preprocesamiento y comparación de distribuciones.
 - visualization.py: Funciones para la visualización de la importancia de las características.
-
-
 
 
 
