@@ -36,12 +36,15 @@ proyecto/
    git clone <URL-del-repositorio>
    cd proyecto
    
-2. Crear un entorno virtual e instalar las dependencias:
-  ```python -m venv env
-  source env/bin/activate  # En Windows usa `env\Scripts\activate`
-  pip install -r requirements.txt```
+2.Crear un entorno virtual e instalar las dependencias:
+
+bash
+python -m venv env
+source env/bin/activate  # En Windows usa `env\Scripts\activate`
+pip install -r requirements.txt
 
 3. Asegúrate de tener los datos necesarios en la carpeta data.
+jupyter notebook notebook/notebook_final.ipynb
 
 4. Estructura de los Archivos en src
 - dataset.py: Función para cargar los datos.
