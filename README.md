@@ -37,6 +37,7 @@ proyecto/
    cd proyecto
    
 2.Crear un entorno virtual e instalar las dependencias:
+
 python -m venv env
 source env/bin/activate  # En Windows usa `env\Scripts\activate`
 pip install -r requirements.txt
