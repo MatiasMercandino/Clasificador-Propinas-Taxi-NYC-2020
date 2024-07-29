@@ -31,9 +31,9 @@ proyecto/
 ## Instalación
 
 1. Clonar el repositorio:
-   ```bash
-   git clone <URL-del-repositorio>
-   cd proyecto
+```bash
+  git clone <URL-del-repositorio>
+  cd proyecto
 
 2. Crear un entorno virtual e instalar las dependencias:
 
