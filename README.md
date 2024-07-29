@@ -41,7 +41,6 @@ proyecto/
 python -m venv env
 source env/bin/activate  # En Windows usa `env\Scripts\activate`
 pip install -r requirements.txt
-
 ```
 
 3. Asegúrate de tener los datos necesarios en la carpeta data.
