@@ -46,9 +46,9 @@ pip install -r requirements.txt
 3. Asegúrate de tener los datos necesarios en la carpeta data.
 
 4. Estructura de los Archivos en src
-- dataset.py: Función para cargar los datos.
+- load_data.py: Función para cargar los datos.
 - features.py: Funciones para el preprocesamiento y comparación de distribuciones.
-- visualization.py: Funciones para la visualización de la importancia de las características.
+- visualización.py: Funciones para la visualización de la importancia de las características.
 
 
 
