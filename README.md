@@ -36,6 +36,6 @@ proyecto/
 - load_data.py: Función para cargar los datos.
 - features.py: Funciones para el preprocesamiento y comparación de distribuciones.
 
-4- Ejecuta el notebook
+4. Ejecuta el notebook
 
 
